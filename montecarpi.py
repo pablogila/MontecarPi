@@ -4,7 +4,7 @@ import math as m
 # Número de granos que cae dentro del círculo
 dentro = 0
 
-print(" Este programa realiza un cálculo aproximado del valor de pi \n mediante la simulación de la tirada de granos de arroz virtuales \n por el método de Montecarlo.")
+print("Este programa realiza un cálculo aproximado del valor de pi mediante la simulación de la tirada de granos de arroz virtuales por el método de Montecarlo.")
 print("Más información:  https://twitter.com/pgilah/status/1246148100894400512?s=20 \n")
 print("Número total de granos de arroz a lanzar:")
 total=int(input())
